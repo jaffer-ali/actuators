@@ -1,0 +1,5 @@
+﻿"R"= 1.5in'radius of rotor
+"E"= .125in'eccentricity
+"R_r"= .125in'radius of roller
+"N"= 14'number of rollers
+"R_o"= .2in'output disk pin diameter
