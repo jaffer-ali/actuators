@@ -1,2 +1,0 @@
-cycloidal actuator
-keep N as an odd number - if it must be even, angle by 360/(N-1)
