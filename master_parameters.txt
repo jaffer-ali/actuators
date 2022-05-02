@@ -3,3 +3,9 @@
 "R_r"= .125in'radius of roller
 "N"= 9'number of rollers
 "R_o"= .125in'output disk pin diameter
+"D2@Sketch9"="E"*2+"R_o"*2
+"D1@CirPattern1"=4
+"D1@Sketch10"="R"*2
+"D1@Sketch9"="R"-.75
+"D3@Sketch9"=180/("N"-1)
+"R_off"= .75
